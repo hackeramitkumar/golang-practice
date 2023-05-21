@@ -7,6 +7,5 @@ func main() {
     fmt.Println(quote.Go())
     fmt.Println(quote.Go())
     fmt.Println(quote.Go())
-
 }
 
